@@ -84,6 +84,9 @@
     <feature name="Camera">
         <param name="ios-package" value="CDVCamera" />
     </feature>
+    <feature name="PhoneGapBuildOauth">
+        <param name="ios-package" value="CDVPhoneGapBuildOauth" />
+    </feature>
     <name>PhoneGap</name>
     <description>
         The PhoneGap Developer app is a testing utility for web developers
